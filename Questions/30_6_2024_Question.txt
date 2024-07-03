@@ -1,0 +1,26 @@
+1 Write a java program to print even and odd number between 1 to 100
+2 Write a java program to print current month from 12 month using if else if or if else ladder
+3 Write a java program to print current day from 7 days using switch
+4 Write a java program to print largest number among 3 numbers
+5 Write a java program to print largest number among 3 numbers using ternary operator
+6 Write a java program to print 7 table as shown below using loops
+    eg  7 * 1 = 7
+        7 * 2 = 14
+        7 * 3 = 21
+        7 * 4 = 28
+        7 * 5 = 35
+        .
+        .
+        .
+        .
+        7 * 10 = 70
+
+7 Write a java program to print the numbers which are divisible by 9 among 1 to 50 using for and while loops
+8 Let say a student got 56/100 in telugu, 45/100 in english, 95/100 in maths, 98/100 science.
+    now write a java program to print 
+    8.1 total marks, 
+    8.2 average
+    8.3 percentage
+    8.4 highest marks subject
+    8.5 print fail or pass if student got 35%
+
