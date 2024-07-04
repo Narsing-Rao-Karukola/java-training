@@ -1,0 +1,12 @@
+1.Check whether a year is Leap Year or not.
+2.Check whether a user is a Valid Voter or not.
+3. Check whether a number is a Positive Number
+4. Check whether a Number is Greater than 10
+5.Write a Java program to find the number of days in a month
+6.Write a program in Java to display the first 10 natural numbers
+7.Write a program in Java to input 5 numbers from the keyboard and find their sum and average.
+8. Write a program in Java to display the cube of the number upto a given an integer.
+9.Check whether a given number is Palindrome Number
+10.Write a program to print out all Armstrong numbers between 1 and 500. If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number.
+For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )
+11. Find a Factorial of a number.
