@@ -28,3 +28,16 @@ public class StringArray {
         }
     }
 }
+
+{
+/*
+ * Dynamic Arrays
+ * 
+ * Define scanner
+ * Read the length of array
+ * Create the array object by passing length
+ * Take the inputs from scanner object using a loop and assign them to array
+ * Display the Array
+ * 
+ */
+}
