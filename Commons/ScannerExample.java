@@ -43,7 +43,7 @@ public class ScannerExample {
         System.out.println("string "+s);
         System.out.println("Multi string "+ml);
         System.out.println("Char "+c);
-
+        scanner.close();
 
 
         // System.out.println("jjj" + s);
