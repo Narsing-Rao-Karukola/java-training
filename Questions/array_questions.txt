@@ -1,0 +1,24 @@
+1. Write a java program to find min and max number from an integer array.
+	Eg: input: [23,10,568,1298,38]  output: min = 10 and max = 1298
+2. Write a java program to reverse an array  and print the array.
+	Eg: input: ['A','B','C','D'] output: ['D','C','B','A']
+3. Write a java program to print the largest and smallest string in from an array.
+	Eg: input : ["Hey", "HP", "Dell", "Lenovo", "Mac Book"] output: Min="HP" Max="Mac Book"
+4. Write a java program to print the duplicate number from an array.
+	Eg: input: [234,34, 6,34, 9,2,6,6,9,23,4] output: 34,6,9
+5. Write a Java program to sum values of an array.
+	Eg: input: [2,1,4,5] output: 12
+6. Write a Java program to calculate the average value of array elements.
+	Eg: input: [9,3,7,5,4] output: 5.6
+7. Write a Java program to find the sum of the two elements of a given array equal to a given integer. And print the pair of indexes of those value.
+	Input:
+	Sample array: [1,2,4,5,6,0,3]
+	Target value: 6. 
+	2+4= 6, 1+5 = 6 
+	Output: (1,4), (0,3)
+8. Write a Java program to find the maximum product of two integers in a given array of integers.  
+	Example:
+	Input :
+	nums = [ 2, 3, 5, 7, -7, 5, 8, -5 ]
+	Output:
+	Pair is (7, 8), Maximum Product: 56
