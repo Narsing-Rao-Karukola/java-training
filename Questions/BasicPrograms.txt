@@ -1,0 +1,29 @@
+1. WRT to store ur name, age,1st letter of ur name. Now print your details with a meaning mgs.
+2. WRT to store ur name, role and salary. Print Output in the below format
+	Eg: Raju is developer and get 25000$ per month.
+3. WRT to check whether given age is eligible for driving license.
+4. WRT to check whether student is eligible for interview based on percentage. select- 60% and above.
+5. WRT to print num from 10 to 1.
+6. WRT to print alphabets from A to Z.
+7. WRT to print num 1 to 10 expect 7.
+8. WRT to pint small alphabets from a to z except letter q.
+9. WRT to print nums from 17 to 35 except 23  &32.
+10. WRT to print a to z except letters present in ur name.
+11. WRT to count all nums that divisible by 4, which are btw 21 to 65.
+12. WRT to print sum and product/multip of 1 to 10
+13. WRT to print below patters
+    A1	Aa  A1
+    A2  Bb  B2
+    ..	..  ..
+    ..	..  ..
+    ..	..  ..
+    A10 Zz  Z26
+	
+14. WRT to print multiplication table of 5 ....5 * 1 = 5
+15. WRT to generate 5*5, 3*6, 2*10 matrix patter.
+16. WRT to print below pattern
+    Xxxx   xx@xx	xxxx#
+    Xxxx   xx@xx	xxxx#
+    Xxxx   xx@xx 	xxxx#
+    ####   xx@xx 	#####
+    xxxx   xx@xx 	xxxx#
